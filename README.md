@@ -32,10 +32,6 @@ Automated license plate detection system built with Python.
 Visual comparison of BFS and DFS search algorithms using the classic water jug problem.  
 `Python` `AI` `Graph Search`
 
-### 💾 8085 Microprocessor Project
-Microprocessor design and simulation project built in Proteus.  
-`8085` `Microprocessors` `Proteus`
-
 ---
 
 ## 📬 Contact
